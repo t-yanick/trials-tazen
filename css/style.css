@@ -1,0 +1,37 @@
+#main{
+    text-align: center;
+		font-family: 'Indie Flower', cursive;
+		max-width: 50%;
+		margin: auto;
+
+}
+#title{
+     background-color: aquamarine;
+
+}
+#img-div{
+    display: block;
+		margin-left: auto;
+		margin-right: auto;
+		align-content: center;
+    
+}
+#image{
+    border: 10px ridge pink;
+    padding: 12px;
+    margin: 10px;
+    align-content: center;
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+#img-caption{
+
+}
+#tribute-info{
+    text-align: center;
+    text-decoration: cadetblue;
+}
+#tribute-link{
+
+}
